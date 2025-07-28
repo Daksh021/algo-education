@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 
 // Java implementation of iterative Bubble Sort Algorithm
-public class BubbleSort {
+public class BubbleSortAlgorithm_Java {
 
     /*
         Function to perform Bubble Sort

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Java implementation of iterative Counting Sort Algorithm
-public class Main {
+public class CountingSortAlgorithm_Java {
 
     /*
         Function to perform Counting Sort
